@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Joseph Lee",
+    
+    "description": "I am a passionate Computer Science student interested in machine learning and software development conducting machine learning based research.",
+    "image": "profilepic.png",
+    "bio": "I am an undergraduate student veteran at the University of Virginia pursuing a Bachelor's Degree in Computer Science and Data Science. I served in the U.S. Army for 4 years with various experience. I am always looking for more opportunities to grow. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "sl5nj@virginia.edu",
+    "phone": "(206)-458-9073",
+    "address": {
+      "street": "476 Farrish Circle",
+      "city": "Charlottesville",
+      "state": "Virginia",
+      "zip": "22903"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1CG8yc9r5E3t9ls9-IFxUQPP51Hzgc43z/view?usp=sharing",
+    "social": [
+      
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lee-sangwoo/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/josephswlee",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Virginia",
+        "degree": "Computer Science and Data Science",
+        "graduated": "August 2020 - Present",
+        "description": "Relevant Courses: Algorithms, Program & Data Representation, Discrete Mathematics, Digital Logic Design, Multivariable Calculus, Ordinaray Differential Equations, Probability"
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "University of Virginia",
+        "title": "Teaching Assistant",
+        "years": "Feburary 2021 - May 2021",
+        "description": "Managed a class of ~100 students in interactive activities related to UX design. Lead weekly office hours for students on practices such as contextual inquiry and prototyping for Human-Computer Interaction in Software Development."
+      },
+      {
+        "company": "U.S. Army",
+        "title": "Motor Transport Operator / Translator",
+        "years": "May 2014 - January 2018",
+        "description": "Supervised 3~4 associates on maintaining the assigned fleet of ten military vehicles that exceed $500,000 value while exceeding standards. Supported junior level supervisor in communicating with Korean nationals on retrieving inoperable military vehicles during field exercises while stationed in South Korea."
+      }
+    ],
+    "research": [
+      {
+        "company": "Department of Neuroscience, UVA",
+        "title": "Undergraduate Researcher",
+        "years": "May 2021 - Present",
+        "description": "Conducting data processing and machine learning based data analysis to analyze diagnosis of vestibular and neurological disorders in mouse models. Performing mouse handling, mouse behavior and video acquisition, fine tuning behavior tests, mouse genotyping, CRISPR gene editing, and hearing tests."
+      }
+    ],
+    "leadership": [
+      {
+        "company": "UVA Class of 2020 Student Council",
+        "title": "Diversity & Engagement Committee Member",
+        "years": "September 2020 - May 2021",
+        "description": "Assisted committee chair and Council president with coordinating events targeting underrepresented groups in a class of 4,000 students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "45%"
+      },
+      {
+        "name": "HTML + CSS",
+        "level": "50%"
+      },
+      {
+        "name": "React-Native",
+        "level": "40%"
+      },
+      {
+        "name": "Latex",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "40%"
+      },
+      {
+        "name": "And more",
+        "level": "150%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Roommate Finder",
+        "category": "",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+  
+}
